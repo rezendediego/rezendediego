@@ -17,7 +17,7 @@ Thus, in my spare time, I will be contributing to open-source projects related t
     src="assets/icons/linkedin.svg"
   /></a>
 &nbsp;
-<a href="diegorezende.ce@gmail.com" title="Write to me on Gmail">
+<a href="mailto:diegorezende.ce@gmail.com" title="Write to me on Gmail">
   <img
     width="24"
     alt="Write to me on Gmail"
