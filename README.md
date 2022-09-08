@@ -2,11 +2,7 @@
 
 I am Diego Rezende, and I received my bachelor's degree in Computer Engineering.
 
-I worked for over 20 years in post-production technology for the film and television industry. Now, however, I am in the process of transitioning my career in search of new challenges and significant projects as a full-time Software Engineer.
-
-I thrive on the possibility of shaping a more collaborative, inclusive, and fair future by building Open Source tools and projects that have a strong social impact, as well as repositories that promote education in technology.
-
-Thus, in my spare time, I will be contributing to open-source projects related to my topics of interest: Blockchain, Distributed Systems, Artificial Intelligence, and its subsets, plus Data Science, Network, Cloud Computing, and Cybersecurity.
+I can write clean code using C++, Circom, Golang, Kotlin, Java, Javascript, Python, Rust, Scala, and Solidity.
 
 ### Getting in touch
 
