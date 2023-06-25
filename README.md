@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-I am Diego Rezende, and I received my bachelor's degree in Computer Engineering.
-
-I can write clean code using C++, Circom, Golang, Kotlin, Java, Javascript, Python, Rust, Scala, and Solidity.
-
 ### Getting in touch
 
 <a href="https://www.linkedin.com/in/diegohcrezende/" title="Follow me on LinkedIn">
